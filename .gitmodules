@@ -1,0 +1,9 @@
+[submodule "marianoabdala"]
+	path = marianoabdala
+	url = https://github.com/marianoabdala/NSConfArgentina2016HB
+[submodule "pbendersky"]
+	path = pbendersky
+	url = https://github.com/pbendersky/NSConfArgentina2016HB.git
+[submodule "nicopuri"]
+	path = nicopuri
+	url = https://github.com/nicopuri/NSConfArgentina2016HB
